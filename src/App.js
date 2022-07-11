@@ -8,3 +8,7 @@ function App() {
 }
 
 export default App;
+
+function data() {
+  console.log("Hello Node");
+}
